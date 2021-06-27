@@ -1,0 +1,11 @@
+Package: ggvennEx
+Type: Package
+Title: Draw a vennplot and transform it to a ggplot2 object
+Version: 0.0.1
+Author: Zhonghui Gai
+Maintainer: Zhonghui Gai <zhgai@aliyun.com>
+Description: Draw a venn plot using VennDiagram package and others
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
