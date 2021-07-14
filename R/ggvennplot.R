@@ -10,7 +10,7 @@
 #' @author Zhonghui Gai
 #' @examples
 #' data <- read.csv(file = "genus.Syn.csv", row.names = 1)
-#' vennlist(data)
+#' #data <- ggvennEx:::vennlist(data)
 #' ggvennplot(data = data, col = c("red", "green", "blue", "orange"))
 #' ggvennplot(data = data[data$group != "3W", ], col = c("red", "blue", "orange"))
 
